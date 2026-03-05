@@ -1,0 +1,17 @@
+# Compiled output
+RecipeOrganizer.jar
+
+# IntelliJ / IDE files
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Kotlin build cache
+build/
+out/
