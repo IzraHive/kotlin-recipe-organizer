@@ -8,7 +8,7 @@ The app lets users manage their favorite recipes through a command-line menu. It
 
 My goal was not only to learn the syntax but to build something with enough real complexity that I would encounter common patterns used in production Kotlin code — nullable types, default parameters, `init` blocks, extension-style helper functions, and clean separation between data, logic, and UI layers.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/aOhGVkzpGXU)
 
 ---
 
